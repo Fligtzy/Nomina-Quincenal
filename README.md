@@ -1,5 +1,5 @@
 
-# Nomina-Quincenal# Nómina Quincenal
+# Nómina Quincenal
 
 Aplicación de Windows Forms en C# que calcula el pago quincenal de los empleados, los agrega a una lista y muestra un resumen con los totales de la nómina.
 
