@@ -84,10 +84,3 @@ Se muestran con `MessageBox`:
 | `TARIFA_SUPERVISOR`    | 350    |
 | `TARIFA_GERENTE`       | 500    |
 
-
-
-## Restricciones cumplidas
-
-- Todo el código está en `Form1.cs`, sin clases adicionales.
-- Sin DataGridView, bases de datos, archivos ni librerías externas.
-- Sin valores fijos repetidos y sin `Console`.
