@@ -84,3 +84,19 @@ Se muestran con `MessageBox`:
 | `TARIFA_SUPERVISOR`    | 350    |
 | `TARIFA_GERENTE`       | 500    |
 
+<img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/3e6ddaf6-e7b3-4383-be74-250cad132191" />
+
+<img width="993" height="655" alt="image" src="https://github.com/user-attachments/assets/316e4d8a-4718-4f83-bfd2-0d9ee6834010" />
+
+<img width="995" height="665" alt="image" src="https://github.com/user-attachments/assets/a2bc7041-b60a-498d-a2a5-49b1caa668dc" />
+
+<img width="995" height="651" alt="image" src="https://github.com/user-attachments/assets/49f17a8e-ede3-4d58-9fc0-de52b16b8f9b" />
+
+<img width="992" height="651" alt="image" src="https://github.com/user-attachments/assets/94c58a79-d0c7-4274-8f79-576e13e296f0" />
+
+<img width="991" height="659" alt="image" src="https://github.com/user-attachments/assets/2d6e10a2-1ec2-48ee-8126-dea89b7336fa" />
+
+
+
+
+
