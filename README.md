@@ -88,15 +88,11 @@ Se muestran con `MessageBox`:
 
 <img width="993" height="655" alt="image" src="https://github.com/user-attachments/assets/316e4d8a-4718-4f83-bfd2-0d9ee6834010" />
 
-<img width="995" height="665" alt="image" src="https://github.com/user-attachments/assets/a2bc7041-b60a-498d-a2a5-49b1caa668dc" />
+<img width="1008" height="667" alt="image" src="https://github.com/user-attachments/assets/6a60e6a6-41cc-473d-9517-bbe0d8595dd7" />
 
-<img width="995" height="651" alt="image" src="https://github.com/user-attachments/assets/49f17a8e-ede3-4d58-9fc0-de52b16b8f9b" />
+<img width="997" height="655" alt="image" src="https://github.com/user-attachments/assets/c41d2535-d0b6-4b28-8df3-f52fd7123ca2" />
 
-<img width="992" height="651" alt="image" src="https://github.com/user-attachments/assets/94c58a79-d0c7-4274-8f79-576e13e296f0" />
-
-<img width="991" height="659" alt="image" src="https://github.com/user-attachments/assets/2d6e10a2-1ec2-48ee-8126-dea89b7336fa" />
-
-
+<img width="998" height="659" alt="image" src="https://github.com/user-attachments/assets/e28cfb75-14fd-4738-bb8b-b65e9c83b0e0" />
 
 
 
